@@ -7,8 +7,7 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello from Colby! This is my first commit.";
-
+    cout << "Hello from Colby! This is my first commit." << endl;
     cout << "Git makes collaboration easy!" << endl;
 }
 
