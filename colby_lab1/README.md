@@ -13,3 +13,6 @@ This is a simple C++ console application created for Git Lab 1.
 - Ben
 
 ## Changes Made by Colby: Added a feature greeting.
+
+## Team Members
+- Colby - Feature: student info display
