@@ -11,3 +11,5 @@ This is a simple C++ console application created for Git Lab 1.
 ## Team Members
 - Colby
 - Ben
+
+## Changes Made by Colby: Added a feature greeting.
