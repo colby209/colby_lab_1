@@ -13,6 +13,13 @@ int main()
     cout << "Lab 1 completed on Monday, April 6th, 2026!" << endl;
     cout << "Feature by Colby: Branching is awesome!" << endl;
     cout << "Student ID: 201629944 | Name: Colby" << endl;
+
+    // My favorite number function - added by Colby
+    void myFavoriteNumber()
+    {
+        int fav = 11;
+        cout << "My favorite number is: " << fav << endl;
+    }
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
